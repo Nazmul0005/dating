@@ -1,0 +1,10 @@
+streamlit
+openai
+langchain
+langchain-core
+langchain-community
+fastapi
+uvicorn
+pydantic
+langchain-openai
+python-multipart
